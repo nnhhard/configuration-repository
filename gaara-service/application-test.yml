@@ -1,0 +1,42 @@
+second-line-pending-ticket:
+  notification:
+    region-property:
+      2:
+        name: Республика Башкортостан
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      72:
+        name: Тюменская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      74:
+        name: Челябинская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      86:
+        name: Ханты-Мансийский автономный округ - Югра
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      23:
+        name: Краснодарский край
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      32:
+        name: Брянская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      51:
+        name: Мурманская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      53:
+        name: Новгородская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      61:
+        name: Ростовская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      69:
+        name: Тверская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      71:
+        name: Тульская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      42:
+        name: Кемеровская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
+      55:
+        name: Омская область
+        emails: RiazanovaEIu@alfastrah.ru, iashinme@alfastrah.ru
